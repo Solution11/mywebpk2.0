@@ -1,0 +1,50 @@
+a {
+  display: block;
+  text-decoration: none;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 0;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: normal;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+
+/* Other styles */
+
+/* END: Other styles */
+
+textarea {
+  resize: none;
+}
+
+/* Remove the following styles after adding reset.css file */
+body {
+  margin: 0;
+  //background: $lighter-gray !important;
+}
+
+/* END: Remove the following styles after adding reset.css file */
